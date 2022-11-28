@@ -16,6 +16,6 @@ Using a Raspberry Pi, students will design and construct a mythical creature and
 
 ## Code
 
-`stepper_controller.py` will rotate the stepper motor when the left/right d-pad buttons are pressed.
-`controller.py` is for reading the xbox controller, not planning on demo-ing this to the kids
-`stepper.py` is for testing the stepper motor is all hooked up
+`stepper_controller.py` will rotate the stepper motor when the left/right d-pad buttons are pressed.  
+`controller.py` is for reading the xbox controller, not planning on demo-ing this to the kids.  
+`stepper.py` is for testing the stepper motor is all hooked up  

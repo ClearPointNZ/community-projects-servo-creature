@@ -2,9 +2,8 @@
 import math
 import time
 import controller
-# Swap line 7 for lines 5,6 if not on a Pi
+# Swap the lines below with the one commented further down if editing code on a Pi
 import fake_rpi.RPi as FRPi
-
 GPIO = FRPi.GPIO
 # import RPi.GPIO as GPIO
 
